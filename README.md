@@ -1,6 +1,6 @@
 # Shanghai-Game
 
-![title_img](doc/title_img.png)
+![title_img](doc/title_img.jpg)
 
 Draw a line with at most two corners, to remove all the tiles from the board by matching pairs.
 
