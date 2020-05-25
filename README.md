@@ -9,3 +9,4 @@ Executable File Download: [Google Drive](https://drive.google.com/drive/folders/
 ## Known Issues
 
 - Duplicated image resources in the "material" folder. Consider using image overlay to reduce the size of this folder.
+- Change the image background color from #fff to #f3f3f3 for better looking.
