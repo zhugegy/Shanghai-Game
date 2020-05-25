@@ -1,0 +1,1 @@
+Move these folders to directory 'LinkGame/bin/debug/' (or 'LinkGame/bin/release/') to successfully compile.
